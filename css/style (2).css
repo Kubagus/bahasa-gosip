@@ -1,0 +1,14 @@
+*{
+    margin: auto;
+}
+
+/* Dark Mode */
+.dark-mode {
+    background-color: #002;
+    color: white;
+
+}
+
+a {
+    color: inherit;
+}
